@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi there 👋 I'm Ashitha Mariam Dilu
 
-<!--
-**ashitha-03/ashitha-03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MCA Student | Aspiring Software Engineer  
+💻 Interested in Python, Web Development, and Machine Learning  
 
-Here are some ideas to get you started:
+### 🔧 Skills
+Python | PHP | MySQL | HTML | CSS | MongoDB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Projects
+- **CareerVista** – Career guidance platform using Flask & ML  
+- **Inclusive Dance Studio** – Online dance learning system (PHP, MySQL)  
+- **Food Hub Management** – Web app for managing food supply orders  
+
+📫 **Email:** ashithamariam03@gmail.com  
+
+
